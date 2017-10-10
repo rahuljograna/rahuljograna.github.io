@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+### Rahul Jograna
 
 You can use the [editor on GitHub](https://github.com/rahuljograna/rahuljograna.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
